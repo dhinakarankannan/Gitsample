@@ -1,0 +1,2 @@
+This command updates the index using the current content found in the working tree and then prepares the content in the staging area for the next commit.
+git add <directory>    or     git add <file>
